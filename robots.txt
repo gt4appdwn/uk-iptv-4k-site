@@ -1,0 +1,9 @@
+# Robots.txt for UK IPTV 4K
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://ukiptv4k.shop/sitemap.xml
